@@ -17,9 +17,6 @@ public class AddContactActivity extends AppCompatActivity {
     private EditText username;
     private EditText email;
 
-    public void test() {
-
-    }
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
